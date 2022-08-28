@@ -27,7 +27,7 @@ namespace ConsoleApp2
             Console.WriteLine("\ts - Subtract");
             Console.WriteLine("\tm - Multiply");
             Console.WriteLine("\td - Divide");
-            Console.Write("Your option? ");
+            
 
             // Use a switch statement to do the math.
             switch (Console.ReadLine())
